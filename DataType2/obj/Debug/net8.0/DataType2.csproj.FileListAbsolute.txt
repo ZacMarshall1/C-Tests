@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\bin\Debug\net8.0\DataType2.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\bin\Debug\net8.0\DataType2.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\bin\Debug\net8.0\DataType2.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\bin\Debug\net8.0\DataType2.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\bin\Debug\net8.0\DataType2.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\obj\Debug\net8.0\DataType2.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\obj\Debug\net8.0\DataType2.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\obj\Debug\net8.0\DataType2.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\obj\Debug\net8.0\DataType2.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\obj\Debug\net8.0\DataType2.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\obj\Debug\net8.0\DataType2.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\obj\Debug\net8.0\refint\DataType2.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\obj\Debug\net8.0\DataType2.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\obj\Debug\net8.0\DataType2.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType2\obj\Debug\net8.0\ref\DataType2.dll
