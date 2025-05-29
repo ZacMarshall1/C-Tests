@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\bin\Debug\net9.0\DataType3.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\bin\Debug\net9.0\DataType3.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\bin\Debug\net9.0\DataType3.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\bin\Debug\net9.0\DataType3.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\bin\Debug\net9.0\DataType3.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\obj\Debug\net9.0\DataType3.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\obj\Debug\net9.0\DataType3.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\obj\Debug\net9.0\DataType3.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\obj\Debug\net9.0\DataType3.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\obj\Debug\net9.0\DataType3.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\obj\Debug\net9.0\DataType3.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\obj\Debug\net9.0\refint\DataType3.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\obj\Debug\net9.0\DataType3.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\obj\Debug\net9.0\DataType3.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataType3\obj\Debug\net9.0\ref\DataType3.dll
