@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\bin\Debug\net9.0\DataOutput1.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\bin\Debug\net9.0\DataOutput1.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\bin\Debug\net9.0\DataOutput1.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\bin\Debug\net9.0\DataOutput1.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\bin\Debug\net9.0\DataOutput1.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\obj\Debug\net9.0\DataOutput1.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\obj\Debug\net9.0\DataOutput1.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\obj\Debug\net9.0\DataOutput1.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\obj\Debug\net9.0\DataOutput1.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\obj\Debug\net9.0\DataOutput1.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\obj\Debug\net9.0\DataOutput1.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\obj\Debug\net9.0\refint\DataOutput1.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\obj\Debug\net9.0\DataOutput1.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\obj\Debug\net9.0\DataOutput1.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\DataOutput1\obj\Debug\net9.0\ref\DataOutput1.dll
