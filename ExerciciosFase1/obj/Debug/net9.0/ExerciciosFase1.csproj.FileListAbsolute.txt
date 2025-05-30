@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\bin\Debug\net9.0\ExerciciosFase1.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\bin\Debug\net9.0\ExerciciosFase1.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\bin\Debug\net9.0\ExerciciosFase1.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\bin\Debug\net9.0\ExerciciosFase1.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\bin\Debug\net9.0\ExerciciosFase1.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\obj\Debug\net9.0\ExerciciosFase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\obj\Debug\net9.0\ExerciciosFase1.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\obj\Debug\net9.0\ExerciciosFase1.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\obj\Debug\net9.0\ExerciciosFase1.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\obj\Debug\net9.0\ExerciciosFase1.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\obj\Debug\net9.0\ExerciciosFase1.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\obj\Debug\net9.0\refint\ExerciciosFase1.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\obj\Debug\net9.0\ExerciciosFase1.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\obj\Debug\net9.0\ExerciciosFase1.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ExerciciosFase1\obj\Debug\net9.0\ref\ExerciciosFase1.dll
