@@ -1,0 +1,15 @@
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\bin\Debug\net9.0\NullableTypes.exe
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\bin\Debug\net9.0\NullableTypes.deps.json
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\bin\Debug\net9.0\NullableTypes.runtimeconfig.json
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\bin\Debug\net9.0\NullableTypes.dll
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\bin\Debug\net9.0\NullableTypes.pdb
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\obj\Debug\net9.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\obj\Debug\net9.0\NullableTypes.AssemblyInfoInputs.cache
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\obj\Debug\net9.0\NullableTypes.AssemblyInfo.cs
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\obj\Debug\net9.0\NullableTypes.csproj.CoreCompileInputs.cache
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\obj\Debug\net9.0\NullableTypes.sourcelink.json
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\obj\Debug\net9.0\NullableTypes.dll
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\obj\Debug\net9.0\refint\NullableTypes.dll
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\obj\Debug\net9.0\NullableTypes.pdb
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\obj\Debug\net9.0\NullableTypes.genruntimeconfig.cache
+C:\_WS\CSStudies\CSFundamentals1\NullableTypes\obj\Debug\net9.0\ref\NullableTypes.dll
