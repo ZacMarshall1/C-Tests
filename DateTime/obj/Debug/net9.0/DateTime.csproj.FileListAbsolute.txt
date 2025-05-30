@@ -1,0 +1,14 @@
+C:\_WS\CSStudies\CSFundamentals1\DateTime\bin\Debug\net9.0\DateTime.exe
+C:\_WS\CSStudies\CSFundamentals1\DateTime\bin\Debug\net9.0\DateTime.deps.json
+C:\_WS\CSStudies\CSFundamentals1\DateTime\bin\Debug\net9.0\DateTime.runtimeconfig.json
+C:\_WS\CSStudies\CSFundamentals1\DateTime\bin\Debug\net9.0\DateTime.dll
+C:\_WS\CSStudies\CSFundamentals1\DateTime\bin\Debug\net9.0\DateTime.pdb
+C:\_WS\CSStudies\CSFundamentals1\DateTime\obj\Debug\net9.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\CSStudies\CSFundamentals1\DateTime\obj\Debug\net9.0\DateTime.AssemblyInfoInputs.cache
+C:\_WS\CSStudies\CSFundamentals1\DateTime\obj\Debug\net9.0\DateTime.AssemblyInfo.cs
+C:\_WS\CSStudies\CSFundamentals1\DateTime\obj\Debug\net9.0\DateTime.csproj.CoreCompileInputs.cache
+C:\_WS\CSStudies\CSFundamentals1\DateTime\obj\Debug\net9.0\DateTime.dll
+C:\_WS\CSStudies\CSFundamentals1\DateTime\obj\Debug\net9.0\refint\DateTime.dll
+C:\_WS\CSStudies\CSFundamentals1\DateTime\obj\Debug\net9.0\DateTime.pdb
+C:\_WS\CSStudies\CSFundamentals1\DateTime\obj\Debug\net9.0\DateTime.genruntimeconfig.cache
+C:\_WS\CSStudies\CSFundamentals1\DateTime\obj\Debug\net9.0\ref\DateTime.dll
