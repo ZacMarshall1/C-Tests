@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\bin\Debug\net9.0\BinaryOperators.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\bin\Debug\net9.0\BinaryOperators.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\bin\Debug\net9.0\BinaryOperators.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\bin\Debug\net9.0\BinaryOperators.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\bin\Debug\net9.0\BinaryOperators.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\obj\Debug\net9.0\BinaryOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\obj\Debug\net9.0\BinaryOperators.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\obj\Debug\net9.0\BinaryOperators.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\obj\Debug\net9.0\BinaryOperators.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\obj\Debug\net9.0\BinaryOperators.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\obj\Debug\net9.0\BinaryOperators.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\obj\Debug\net9.0\refint\BinaryOperators.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\obj\Debug\net9.0\BinaryOperators.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\obj\Debug\net9.0\BinaryOperators.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BinaryOperators\obj\Debug\net9.0\ref\BinaryOperators.dll
