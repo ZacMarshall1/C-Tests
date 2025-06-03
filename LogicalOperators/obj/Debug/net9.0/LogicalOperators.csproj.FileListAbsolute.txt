@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\bin\Debug\net9.0\LogicalOperators.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\bin\Debug\net9.0\LogicalOperators.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\bin\Debug\net9.0\LogicalOperators.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\bin\Debug\net9.0\LogicalOperators.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\bin\Debug\net9.0\LogicalOperators.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\obj\Debug\net9.0\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\obj\Debug\net9.0\LogicalOperators.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\obj\Debug\net9.0\LogicalOperators.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\obj\Debug\net9.0\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\obj\Debug\net9.0\LogicalOperators.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\obj\Debug\net9.0\LogicalOperators.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\obj\Debug\net9.0\refint\LogicalOperators.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\obj\Debug\net9.0\LogicalOperators.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\obj\Debug\net9.0\LogicalOperators.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LogicalOperators\obj\Debug\net9.0\ref\LogicalOperators.dll
