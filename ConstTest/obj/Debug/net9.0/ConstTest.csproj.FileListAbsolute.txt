@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\bin\Debug\net9.0\ConstTest.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\bin\Debug\net9.0\ConstTest.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\bin\Debug\net9.0\ConstTest.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\bin\Debug\net9.0\ConstTest.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\bin\Debug\net9.0\ConstTest.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\obj\Debug\net9.0\ConstTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\obj\Debug\net9.0\ConstTest.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\obj\Debug\net9.0\ConstTest.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\obj\Debug\net9.0\ConstTest.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\obj\Debug\net9.0\ConstTest.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\obj\Debug\net9.0\ConstTest.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\obj\Debug\net9.0\refint\ConstTest.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\obj\Debug\net9.0\ConstTest.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\obj\Debug\net9.0\ConstTest.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\ConstTest\obj\Debug\net9.0\ref\ConstTest.dll
