@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\bin\Debug\net9.0\BhaskarasFormulaCalculator.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\bin\Debug\net9.0\BhaskarasFormulaCalculator.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\bin\Debug\net9.0\BhaskarasFormulaCalculator.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\bin\Debug\net9.0\BhaskarasFormulaCalculator.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\bin\Debug\net9.0\BhaskarasFormulaCalculator.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\obj\Debug\net9.0\BhaskarasFormulaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\obj\Debug\net9.0\BhaskarasFormulaCalculator.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\obj\Debug\net9.0\BhaskarasFormulaCalculator.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\obj\Debug\net9.0\BhaskarasFormulaCalculator.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\obj\Debug\net9.0\BhaskarasFormulaCalculator.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\obj\Debug\net9.0\BhaskarasFormulaCalculator.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\obj\Debug\net9.0\refint\BhaskarasFormulaCalculator.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\obj\Debug\net9.0\BhaskarasFormulaCalculator.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\obj\Debug\net9.0\BhaskarasFormulaCalculator.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\BhaskarasFormulaCalculator\obj\Debug\net9.0\ref\BhaskarasFormulaCalculator.dll
