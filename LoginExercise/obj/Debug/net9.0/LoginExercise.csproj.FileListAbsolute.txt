@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\bin\Debug\net9.0\LoginExercise.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\bin\Debug\net9.0\LoginExercise.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\bin\Debug\net9.0\LoginExercise.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\bin\Debug\net9.0\LoginExercise.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\bin\Debug\net9.0\LoginExercise.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\obj\Debug\net9.0\LoginExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\obj\Debug\net9.0\LoginExercise.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\obj\Debug\net9.0\LoginExercise.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\obj\Debug\net9.0\LoginExercise.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\obj\Debug\net9.0\LoginExercise.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\obj\Debug\net9.0\LoginExercise.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\obj\Debug\net9.0\refint\LoginExercise.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\obj\Debug\net9.0\LoginExercise.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\obj\Debug\net9.0\LoginExercise.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\LoginExercise\obj\Debug\net9.0\ref\LoginExercise.dll
