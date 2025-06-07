@@ -1,0 +1,15 @@
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\bin\Debug\net9.0\SwitchCaseTest.exe
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\bin\Debug\net9.0\SwitchCaseTest.deps.json
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\bin\Debug\net9.0\SwitchCaseTest.runtimeconfig.json
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\bin\Debug\net9.0\SwitchCaseTest.dll
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\bin\Debug\net9.0\SwitchCaseTest.pdb
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\obj\Debug\net9.0\SwitchCaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\obj\Debug\net9.0\SwitchCaseTest.AssemblyInfoInputs.cache
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\obj\Debug\net9.0\SwitchCaseTest.AssemblyInfo.cs
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\obj\Debug\net9.0\SwitchCaseTest.csproj.CoreCompileInputs.cache
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\obj\Debug\net9.0\SwitchCaseTest.sourcelink.json
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\obj\Debug\net9.0\SwitchCaseTest.dll
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\obj\Debug\net9.0\refint\SwitchCaseTest.dll
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\obj\Debug\net9.0\SwitchCaseTest.pdb
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\obj\Debug\net9.0\SwitchCaseTest.genruntimeconfig.cache
+C:\_WS\CSStudies\CSFundamentals1\SwitchCaseTest\obj\Debug\net9.0\ref\SwitchCaseTest.dll
