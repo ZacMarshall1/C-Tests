@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\bin\Debug\net9.0\TemperatureConverter.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\bin\Debug\net9.0\TemperatureConverter.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\bin\Debug\net9.0\TemperatureConverter.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\bin\Debug\net9.0\TemperatureConverter.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\bin\Debug\net9.0\TemperatureConverter.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\obj\Debug\net9.0\refint\TemperatureConverter.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\obj\Debug\net9.0\TemperatureConverter.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\TemperatureConverter\obj\Debug\net9.0\ref\TemperatureConverter.dll
