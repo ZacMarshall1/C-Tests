@@ -1,0 +1,15 @@
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\bin\Debug\net9.0\IfTests.exe
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\bin\Debug\net9.0\IfTests.deps.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\bin\Debug\net9.0\IfTests.runtimeconfig.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\bin\Debug\net9.0\IfTests.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\bin\Debug\net9.0\IfTests.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\obj\Debug\net9.0\IfTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\obj\Debug\net9.0\IfTests.AssemblyInfoInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\obj\Debug\net9.0\IfTests.AssemblyInfo.cs
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\obj\Debug\net9.0\IfTests.csproj.CoreCompileInputs.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\obj\Debug\net9.0\IfTests.sourcelink.json
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\obj\Debug\net9.0\IfTests.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\obj\Debug\net9.0\refint\IfTests.dll
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\obj\Debug\net9.0\IfTests.pdb
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\obj\Debug\net9.0\IfTests.genruntimeconfig.cache
+C:\_WS\C#curso\TiposDeDados\CSFundamentals1\IfTests\obj\Debug\net9.0\ref\IfTests.dll
