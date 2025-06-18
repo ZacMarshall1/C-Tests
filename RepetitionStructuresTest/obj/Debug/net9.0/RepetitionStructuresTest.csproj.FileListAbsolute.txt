@@ -1,0 +1,15 @@
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\bin\Debug\net9.0\RepetitionStructuresTest.exe
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\bin\Debug\net9.0\RepetitionStructuresTest.deps.json
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\bin\Debug\net9.0\RepetitionStructuresTest.runtimeconfig.json
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\bin\Debug\net9.0\RepetitionStructuresTest.dll
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\bin\Debug\net9.0\RepetitionStructuresTest.pdb
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\obj\Debug\net9.0\RepetitionStructuresTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\obj\Debug\net9.0\RepetitionStructuresTest.AssemblyInfoInputs.cache
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\obj\Debug\net9.0\RepetitionStructuresTest.AssemblyInfo.cs
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\obj\Debug\net9.0\RepetitionStructuresTest.csproj.CoreCompileInputs.cache
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\obj\Debug\net9.0\RepetitionStructuresTest.sourcelink.json
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\obj\Debug\net9.0\RepetitionStructuresTest.dll
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\obj\Debug\net9.0\refint\RepetitionStructuresTest.dll
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\obj\Debug\net9.0\RepetitionStructuresTest.pdb
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\obj\Debug\net9.0\RepetitionStructuresTest.genruntimeconfig.cache
+C:\_WS\CSStudies\CSFundamentals1\RepetitionStructuresTest\obj\Debug\net9.0\ref\RepetitionStructuresTest.dll
